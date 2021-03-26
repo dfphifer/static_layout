@@ -18,8 +18,7 @@ html {
 }
 
 .navbuttonright {
-  margin-left: 90%;
-  
+  margin-left: 90%; 
 }
 
 .masthead {
@@ -35,6 +34,7 @@ html {
   width: 100%;
   height: 70%;
   align-items: flex-start;
+  min-width: 600px;
 }
 
 .bckgrnd {
@@ -50,8 +50,16 @@ html {
 .prelogo {
   color: #2DBD9D;
   position: absolute;
-  margin-left: 40%;
   margin-top: 10%;
   font-size: 12px;
-  
+  align-self: center;
+}
+
+.logo {
+  position: absolute;
+  align-self: center;
+  height: 100px;
+  width: 300px;
+  margin-top: 12%;
+
 }

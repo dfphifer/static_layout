@@ -51,9 +51,10 @@ html {
 .prelogo {
   color: #2DBD9D;
   position: absolute;
-  margin-top: 8%;
-  font-size: 13px;
+  margin-top: 8.3%;
+  font-size: 12px;
   align-self: center;
+  letter-spacing: 0.5px;
 }
 
 .logo {
@@ -62,5 +63,26 @@ html {
   height: 88px;
   width: 265px;
   margin-top: 10.68%;
+  
 
+}
+
+.postlogo {
+  color: whitesmoke;
+  position: absolute;
+  margin-top: 21.5%;
+  align-self: center;
+  font-size: 16px;
+  line-height: 26px;
+}
+
+.logomojo {
+  color: whitesmoke;
+  position: absolute;
+  margin-top: 17%;
+  align-self: center;
+  font-size: 22px;
+  line-height: 30px;
+  font-weight: bold;
+  text-align: center;
 }

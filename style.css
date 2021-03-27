@@ -9,6 +9,7 @@
   margin: 0;
   flex-wrap: wrap;
   position: relative;
+  min-height: 100%;
 }
 
 div {
@@ -18,6 +19,7 @@ div {
 html {
   box-sizing: border-box;
   height: 100%;
+  
 }
 
 
@@ -125,3 +127,29 @@ html {
   margin-top: 2%;
 }
 
+#logoMove {
+  margin-top: 35%;
+  maxwidth: 200px;
+  width: 20%;
+  margin-right: 70%;
+}
+
+#moreFooter {
+  margin-top: 36%;
+  margin-right: 25%;
+  
+}
+
+#moreMojo {
+  margin-top: 38%;
+  margin-right: 5%;
+  font-weight: lighter;
+  line-height: 24px;
+}
+
+#getBundle {
+  background: transparent;
+  border: 2px solid #FFFFFF;
+  
+ 
+}

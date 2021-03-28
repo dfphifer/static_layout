@@ -21,6 +21,7 @@
   flex-direction: column;
   background-color: black;
   position: absolute;
+  font-family: 'Graphik', Helvetica, Arial, sans-serif;
 
   
 }
@@ -57,9 +58,6 @@ html {
   width: 100vw;
   margin-bottom: 13%;
   position:static;
- 
-  margin-right: 
-  
 }
 
 .prelogo {
@@ -142,7 +140,7 @@ html {
 
 #logoMove {
   margin-top: 35%;
-  maxwidth: 200px;
+  
   width: 20%;
   margin-right: 70%;
 }
@@ -197,4 +195,36 @@ html {
   margin-top: 625px;
   margin-right: 579px;
   font-size: 14px;
+}
+
+.prelogo2 {
+  color: #2DBD9D;
+  font-size: 13px;
+  font-weight: 800;
+  letter-spacing: 0.90px;
+  line-height: 12px;
+  margin-bottom: 16px;
+  font-family: 'Graphik', Helvetica, Arial, sans-serif;
+  align-self: center;
+  margin-top: 42px;
+}
+
+.library_head {
+  font-size: 57px;
+  font-weight: 800;
+  line-height: 44px;
+  color: #fff;
+  align-self: center;
+  margin-top: 18px;
+}
+
+.logomojo2 {
+  font-size: 21px;
+  line-height: 24px;
+  color: whitesmoke;
+  position: absolute;
+  margin-top: 12%;
+  align-self: center;
+  font-weight: light;
+  text-align: center;
 }

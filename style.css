@@ -135,6 +135,7 @@ html {
   margin-left: 94%;
   margin-top: 2%;
   cursor: pointer;
+  text-decoration: none;
 }
 
 #logoMove {
@@ -274,6 +275,16 @@ html {
   margin-left: 86.5%;
   position: absolute;
   margin-top: 585px;
+  cursor: pointer;
+  text-decoration: none;
+  
+}
+
+.btn-hack2 {
+  color: black;
+  margin-left: 43.5%;
+  position: absolute;
+  margin-top: 381px;
   cursor: pointer;
   text-decoration: none;
   

@@ -170,7 +170,9 @@ html {
   color: #FFFFFF;
   font-weight: 600;
   padding: 0 32px;
-  margin-left: 85%;
+  margin-left: 86%;
+  width: 125px;
+  text-align: center;
 }
 
 .linkTerms {
@@ -230,7 +232,7 @@ html {
 .library1 {
   width: 294px;
   height: 422px;
-  margin-top: 255px;
+  margin-top: 145px;
   margin-left: 145px;
   opacity: 0.6;
   position: absolute;
@@ -240,7 +242,7 @@ html {
 .library2 {
   width: 294px;
   height: 422px;
-  margin-top: 255px;
+  margin-top: 145px;
   margin-left: 469px;
   opacity: 0.6;
   position: absolute;
@@ -250,7 +252,7 @@ html {
 .library3 {
   width: 294px;
   height: 422px;
-  margin-top: 255px;
+  margin-top: 145px;
   margin-left: 784px;
   opacity: 0.6;
   position: absolute;
@@ -260,9 +262,19 @@ html {
 .library4 {
   width: 294px;
   height: 422px;
-  margin-top: 255px;
+  margin-top: 145px;
   margin-left: 1100px;
   opacity: 0.6;
   cursor: pointer;
   position: absolute;
+}
+
+.btn-hack {
+  color: #fff;
+  margin-left: 86.5%;
+  position: absolute;
+  margin-top: 585px;
+  cursor: pointer;
+  text-decoration: none;
+  
 }

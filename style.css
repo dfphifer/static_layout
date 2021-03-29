@@ -113,6 +113,7 @@ html {
   margin-top: 23em;
   align-self: center;
   border-radius: 6px;
+  hover
 }
 
 .footnote {
@@ -136,6 +137,7 @@ html {
   margin-top: 2%;
   cursor: pointer;
   text-decoration: none;
+  
 }
 
 #logoMove {
@@ -235,7 +237,7 @@ html {
   height: 422px;
   margin-top: 145px;
   margin-left: 145px;
-  opacity: 0.6;
+  opacity: 1;
   position: absolute;
   cursor: pointer;
 }
@@ -245,7 +247,7 @@ html {
   height: 422px;
   margin-top: 145px;
   margin-left: 469px;
-  opacity: 0.6;
+  opacity: 1;
   position: absolute;
   cursor: pointer;
 }
@@ -255,7 +257,7 @@ html {
   height: 422px;
   margin-top: 145px;
   margin-left: 784px;
-  opacity: 0.6;
+  opacity: 1;
   position: absolute;
   cursor: pointer;
 }
@@ -265,7 +267,7 @@ html {
   height: 422px;
   margin-top: 145px;
   margin-left: 1100px;
-  opacity: 0.6;
+  opacity: 1;
   cursor: pointer;
   position: absolute;
 }
@@ -278,6 +280,7 @@ html {
   cursor: pointer;
   text-decoration: none;
   
+  
 }
 
 .btn-hack2 {
@@ -288,4 +291,16 @@ html {
   cursor: pointer;
   text-decoration: none;
   
+}
+
+.login:hover{
+  opacity: 0.5;
+}
+
+.btn-hack:hover{
+  opacity: 0.5;
+}
+
+.startbtn:hover{
+  opacity: 0.5;
 }
